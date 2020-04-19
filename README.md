@@ -11,3 +11,5 @@ python:
 4.https://medium.com/python-pandemonium/data-visualization-in-python-scatter-plots-in-matplotlib-da90ac4c99f9
 
 5.https://pythonspot.com/matplotlib-scatterplot/
+
+6.https://pythonprogramming.net/scatter-plot-matplotlib-tutorial/
