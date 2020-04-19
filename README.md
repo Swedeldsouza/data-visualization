@@ -9,3 +9,5 @@ python:
 3.https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html
 
 4.https://medium.com/python-pandemonium/data-visualization-in-python-scatter-plots-in-matplotlib-da90ac4c99f9
+
+5.https://pythonspot.com/matplotlib-scatterplot/
