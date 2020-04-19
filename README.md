@@ -13,3 +13,5 @@ python:
 5.https://pythonspot.com/matplotlib-scatterplot/
 
 6.https://pythonprogramming.net/scatter-plot-matplotlib-tutorial/
+
+7.https://matplotlib.org/3.2.1/api/index.html
