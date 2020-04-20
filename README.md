@@ -17,3 +17,6 @@ python:
 7.https://matplotlib.org/3.2.1/api/index.html
 
 8.https://www.tutorialspoint.com/matplotlib/matplotlib_scatter_plot.htm
+
+
+Matplotlib subplot : 1. https://medium.com/@rayheberer/generating-matplotlib-subplots-programmatically-cc234629b648
